@@ -41,6 +41,15 @@ body {
     font-weight: 300px;
 }
 
+.textos-header p{
+    color: white;
+    font-size: 18px;
+    margin: 28px;
+    text-align: center;
+    margin-right: 180px;
+    margin-left: 180px;
+}
+
 .CollabGamers {
     text-align: center; 
 }
