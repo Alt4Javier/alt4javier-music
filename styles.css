@@ -50,6 +50,40 @@ body {
     margin-left: 180px;
 }
 
+.newsingle h1{
+    color: rgb(250, 134, 118);
+    margin: 50px;
+    margin-bottom: 20px;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.newsingle h2{
+    color: rgb(184, 94, 82);
+    margin: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300px;
+}
+
+.newsingle p{
+    color: white;
+    font-size: 18px;
+    margin: 28px;
+    text-align: center;
+    margin-right: 180px;
+    margin-left: 180px;
+}
+
+.newsingle h3{
+    color: rgb(204, 104, 91);
+    margin: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300px;
+}
+
 .CollabGamers {
     text-align: center; 
 }
