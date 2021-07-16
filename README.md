@@ -1,6 +1,6 @@
 # Alt 4 Javier Sitio web Oficial
 
-**Actualizacion 3.79**
+**Actualizacion 3.80**
 
 #### Cosas Nuevas:
 - Nuevas Secciones
@@ -14,3 +14,4 @@
 #### Cosas Arregladas:
 - Margin de videos al entrar al sitio web.
 - Margin y padding de secciones.
+- Max-width de videos al Restaurar/Minimzar el navegador que utilice.
