@@ -225,6 +225,17 @@ nav > a{
     color: white;
 }
 
+.ever-now-title{
+    color: thistle;
+    text-decoration: underline;
+    font-size: 50px;
+    margin: 5px;
+    text-align: center;
+    font-weight: 300px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
 .CollabGamers {
     text-align: center; 
 }
