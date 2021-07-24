@@ -8,6 +8,10 @@ body {
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 
+iframe {
+    max-width: 100% !important;
+}
+
 .flex-center{
     justify-content: center;
 }
