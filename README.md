@@ -1,11 +1,11 @@
 # Alt 4 Javier Sitio web Oficial
 
-**Actualizacion 3.86**
+**Actualizacion 3.88**
 
 #### Cosas Nuevas:
-- Añadido Nueva seccion: Ever Now Remix.
-- Añadido nuevos `<meta>` a la Pagina a la pagina, ayudando a tener descripcion, autor de la pagina, keywords `(description, keywords, author)` en general.
+- Añadido Nueva imagen en la seccion "Galery": Element.
 - El Sitio web ahora es indexeable, ya se puede buscar en la internet con los `meta` que esta en esta actualizacion.
+- Despues de la imagen principal del sitio, aparecera un aviso la cual esta enlacada a la pagina "Merch".
 
 #### Cosas Arregladas:
-- Arreglado problema del sitio, Hubo un problema con la Actualizacion 3.80 al cargar el max-width de videos en general (Ya esta Funcionando // Prueba exitosa)
+- Arreglado problema del sitio, Hubo un problema con la Actualizacion 3.80 al cargar el max-width de videos en general 
