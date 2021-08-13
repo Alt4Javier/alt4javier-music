@@ -36,6 +36,34 @@ nav > a{
     text-align: center;
 }
 
+.advice{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.advice-div{
+    width: 100%;
+    justify-content: start;
+}
+
+.advice-title{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    padding-left: 55px;
+    font-weight: 900;
+    background-color: rgb(219, 48, 48);
+    padding-bottom: 30px;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.advice-title a{
+    background-color: rgb(219, 48, 48);
+    color: yellow;
+    text-align: left;
+}
+
 .textos-header{
     margin-top: 30px;
 }
